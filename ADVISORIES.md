@@ -28,8 +28,8 @@
 	- Knowledge Base article:
 		- https://www.suse.com/support/kb/doc/?id=000019673
 - HP
-	- Security advisory
-		- HPSBHF03678 rev. 1 - GRUB2 Bootloader Arbitrary Code Execution
+	- HPSBHF03678 rev. 1 - GRUB2 Bootloader Arbitrary Code Execution
+		- https://support.hp.com/us-en/document/c06707446
 - VMware
 	- Security advisory
 		- https://kb.vmware.com/s/article/80181
