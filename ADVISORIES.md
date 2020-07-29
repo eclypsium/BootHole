@@ -2,7 +2,9 @@
 
 - Upstream Grub2 project
 	- GRUB2 Git Repository
+		- http://git.savannah.gnu.org/gitweb/?p=grub.git&view=view+git+repository
 	- GRUB Developer Mailing List
+		- https://lists.gnu.org/mailman/listinfo/grub-devel/
 - Microsoft
 	- Security advisory
 		- https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/ADV200011
