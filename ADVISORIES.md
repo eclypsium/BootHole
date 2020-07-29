@@ -49,5 +49,8 @@
 - VMware
 	- Knowledge Base article
 		- https://kb.vmware.com/s/article/80181
+- CERT/CC
+	- Vulnerability Note
+		- https://kb.cert.org/vuls/id/174059
 
 ## Please feel free to submit pull requests to add additional advisories as those are published
