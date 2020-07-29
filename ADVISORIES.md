@@ -5,6 +5,8 @@
 		- http://git.savannah.gnu.org/gitweb/?p=grub.git&view=view+git+repository
 	- GRUB Developer Mailing List
 		- https://lists.gnu.org/mailman/listinfo/grub-devel/
+	- BootHole patch series
+		- https://lists.gnu.org/archive/html/grub-devel/2020-07/msg00034.html
 - Microsoft
 	- Security advisory
 		- https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/ADV200011
