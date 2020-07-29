@@ -44,6 +44,8 @@
 - HPE
 	- Security advisory
 		- https://techhub.hpe.com/eginfolib/securityalerts/Boot_Hole/boot_hole.html
+	- Product Security Vulnerability Alert
+		- https://www.hpe.com/us/en/services/security-vulnerability.html
 - VMware
 	- Security advisory
 		- https://kb.vmware.com/s/article/80181
