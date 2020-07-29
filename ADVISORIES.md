@@ -43,7 +43,7 @@
 		- https://support.hp.com/us-en/document/c06707446
 - HPE
 	- Security advisory
-		- https://www.hpe.com/us/en/services/security-vulnerability.html
+		- https://techhub.hpe.com/eginfolib/securityalerts/Boot_Hole/boot_hole.html
 - VMware
 	- Security advisory
 		- https://kb.vmware.com/s/article/80181
