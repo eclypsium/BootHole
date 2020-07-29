@@ -26,12 +26,14 @@
 	- Additional information
 		- https://www.debian.org/security/2020-GRUB-UEFI-SecureBoot 
 - Red Hat
-	- Customer documentation
+	- Security advisory
+		- https://access.redhat.com/security/cve/cve-2020-10713
+	- Vulnerability response article
 		- https://access.redhat.com/security/vulnerabilities/grub2bootloader
 - SUSE
 	- Security advisory
 		- https://www.suse.com/c/suse-addresses-grub2-secure-boot-issue/
-	- Knowledge Base article:
+	- Knowledge Base article
 		- https://www.suse.com/support/kb/doc/?id=000019673
 - Dell
 	- High level overview
