@@ -22,18 +22,28 @@
 		- https://wiki.ubuntu.com/SecurityTeam/KnowledgeBase/GRUB2SecureBootBypass
 - Debian
 	- Security advisory
+		- https://www.debian.org/security/2020/dsa-4735
+	- Additional information
 		- https://www.debian.org/security/2020-GRUB-UEFI-SecureBoot 
 - Red Hat
 	- Customer documentation
 		- https://access.redhat.com/security/vulnerabilities/grub2bootloader
 - SUSE
-	- Security advisory:
+	- Security advisory
 		- https://www.suse.com/c/suse-addresses-grub2-secure-boot-issue/
 	- Knowledge Base article:
 		- https://www.suse.com/support/kb/doc/?id=000019673
+- Dell
+	- High level overview
+		- https://www.dell.com/support/article/en-us/sln322283
+	- Additional information
+		- https://www.dell.com/support/article/en-us/SLN322287
 - HP
 	- HPSBHF03678 rev. 1 - GRUB2 Bootloader Arbitrary Code Execution
 		- https://support.hp.com/us-en/document/c06707446
+- HPE
+	- Security advisory
+		- https://www.hpe.com/us/en/services/security-vulnerability.html
 - VMware
 	- Security advisory
 		- https://kb.vmware.com/s/article/80181
