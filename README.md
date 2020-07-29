@@ -9,4 +9,5 @@ We have created a Powershell script that will check the EFI System Partition for
 ## Linux Based Platforms
 Similarly to the Windows Powershell script above,  we have also created a Linux Bash script that will check for any signed executable files revoked in the BootHole DBX update .
 
-# Please report any issues if you encounter them and we will try our best to assist you as soon as we can.
+
+# If you encounter any issues please report them and we will try our best to assist you as soon as we can.
