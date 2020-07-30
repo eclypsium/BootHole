@@ -52,5 +52,10 @@
 - CERT/CC
 	- Vulnerability Note
 		- https://kb.cert.org/vuls/id/174059
+- NSA
+	- Press Article
+		- https://www.nsa.gov/news-features/press-room/Article/2294715/nsa-releases-cybersecurity-advisory-on-grub2-boothole-vulnerability/
+	- Cybersecurity Advisory
+		- https://www.nsa.gov/Portals/70/documents/resources/cybersecurity-professionals/CSA_Mitigate_the_GRUB2_BootHole_Vulnerability_20200730_nsa_gov%20-%20Copy.pdf?ver=2020-07-30-170540-600
 
 ## Please feel free to submit pull requests to add additional advisories as those are published
