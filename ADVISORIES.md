@@ -26,6 +26,12 @@
 			- https://www.debian.org/security/2020/dsa-4735
 		- Additional information
 			- https://www.debian.org/security/2020-GRUB-UEFI-SecureBoot 
+	- Mageia
+		- Bug tracking
+			- https://bugs.mageia.org/show_bug.cgi?id=27018
+	- Oracle
+		- Security advisory
+			- https://linux.oracle.com/errata/ELSA-2020-3220.html
 	- Red Hat
 		- Security advisory
 			- https://access.redhat.com/security/cve/cve-2020-10713
@@ -51,6 +57,12 @@
 	- HPE
 		- Security advisory
 			- https://techhub.hpe.com/eginfolib/securityalerts/Boot_Hole/boot_hole.html
+	- Huawei
+		- Security Notice
+			- https://www.huawei.com/en/psirt/security-notices/2020/huawei-sn-20200730-01-grub2-en
+	- Lenovo
+		- Knowledge Base article
+			- https://support.lenovo.com/fr/en/product_security/len-34794
 - Vulnerability Coordination Centers and other notable organizations
 	- CERT/CC
 		- Vulnerability Note
