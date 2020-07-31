@@ -52,6 +52,9 @@
 - CERT/CC
 	- Vulnerability Note
 		- https://kb.cert.org/vuls/id/174059
+- JPCERT/CC
+	- Vulnerability Note
+		- http://jvn.jp/vu/JVNVU98487886/index.html
 - NSA
 	- Press Article
 		- https://www.nsa.gov/news-features/press-room/Article/2294715/nsa-releases-cybersecurity-advisory-on-grub2-boothole-vulnerability/
