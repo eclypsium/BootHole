@@ -67,8 +67,11 @@
 	- CERT/CC
 		- Vulnerability Note
 			- https://kb.cert.org/vuls/id/174059
+	- CERT-FR
+		- Vulnerability Note (French)
+			- https://www.cert.ssi.gouv.fr/avis/CERTFR-2020-AVI-477/
 	- JPCERT/CC
-		- Vulnerability Note
+		- Vulnerability Note (Japanese)
 			- http://jvn.jp/vu/JVNVU98487886/index.html
 	- NSA
 		- Press Article
