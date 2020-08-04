@@ -64,6 +64,9 @@
 		- Knowledge Base article
 			- https://support.lenovo.com/fr/en/product_security/len-34794
 - Networking Equipment
+	- Cisco
+		- Security advisory
+			- https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-grub2-code-exec-xLePCAPY
 	- NetApp
 		- Security advisory
 			- https://security.netapp.com/advisory/ntap-20200731-0008/
