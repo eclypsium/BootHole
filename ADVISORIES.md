@@ -63,6 +63,10 @@
 	- Lenovo
 		- Knowledge Base article
 			- https://support.lenovo.com/fr/en/product_security/len-34794
+- Networking Equipment
+	- NetApp
+		- Security advisory
+			- https://security.netapp.com/advisory/ntap-20200731-0008/
 - Vulnerability Coordination Centers and other notable organizations
 	- CERT/CC
 		- Vulnerability Note
