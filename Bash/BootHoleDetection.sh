@@ -393,8 +393,9 @@ sb_failed=0
 
 check_secure_boot() {
     state=$(mokutil --sb-state 2>&1);
+    mokutil_status=$?
     printf "[*] mokutil:\n%s\n\n" "$state"
-    if [ $? -ne 0 ]; then
+    if [ $mokutil_status -ne 0 ]; then
         echo [-] mokutil returned non-zero status: exiting
         exit 1
     fi
