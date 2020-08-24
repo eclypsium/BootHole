@@ -392,7 +392,13 @@ vuln=0
 sb_failed=0
 
 check_secure_boot() {
-    mokutil --sb-state | grep -qs 'SecureBoot disabled'
+    state=$(mokutil --sb-state 2>&1);
+    printf "[*] mokutil:\n%s\n\n" "$state"
+    if [ $? -ne 0 ]; then
+        echo [-] mokutil returned non-zero status: exiting
+        exit 1
+    fi
+    echo $state | grep -qs 'SecureBoot enabled'
 }
 
 check_cert() {
@@ -417,10 +423,8 @@ check_hash() {
 }
 
 # Check if SecureBoot is enabled
-if check_secure_boot; then
-    echo -e "[!] SecureBoot is disabled: ESP not protected\n"
-else
-    echo -e "[+] SecureBoot is enabled\n"
+if ! check_secure_boot; then
+    echo -e "[!] ESP is not protected\n"
 fi
 
 # Attempt to mount efi partition if not available
